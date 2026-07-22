@@ -1,6 +1,6 @@
 const CACHE_NAME = 'anbar-cache-v1';
 const FILES_TO_CACHE = [
-  './1-6-انبار.html',
+  './انبار-6-1.html',
   './manifest.json',
   './icon-192.png',
   './icon-512.png'
